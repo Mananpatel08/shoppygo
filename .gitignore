@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env*
+venv/
+.env/
+db.sqlite3
+
+# Node.js
+node_modules/
+
+# Build / Dist
+dist/
+build/
+
+# Logs
+*.log
+
+# Uploaded files
+product_images/
+
+# Editor settings
+.vscode/
+.idea/
